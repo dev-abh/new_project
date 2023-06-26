@@ -1,0 +1,35 @@
+   
+    .card{
+        background-color: rgb(229, 233, 233);
+        box-shadow: -10px 15px 10px -15px #111; 
+
+    }
+    .leftPannel{
+        padding-top: 0%;
+        width: 100px;
+        height: 400px;
+        box-shadow: 3px 3px 4px 3px gray;
+    }
+    .erow{
+        text-align: end;
+    }
+      #rightPannel{
+                width:50px;
+                height: 300px;
+                margin-top: 2%;
+                border-radius:25px 0px 0px 25px;
+                background-color: rgb(245, 247, 248);
+                box-shadow: -10px 15px 10px -15px #111; 
+                text-align: left;
+             
+           }
+            #rightPannel h6{
+            background-color: #111;
+            color: aliceblue;
+            writing-mode: vertical-lr;
+            text-orientation: upright;
+            height: 100%;
+            margin-left: -5px;
+            border-radius:25px 0px 0px 25px;
+            text-align: center;
+           } 
